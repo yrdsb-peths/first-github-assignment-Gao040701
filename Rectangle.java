@@ -6,7 +6,6 @@ public class Rectangle{
   public Rectangle(String name){
     this.name = name;
     this.width = 0;
-    this.length = 0;
     this.length = 0; 
   }
   
