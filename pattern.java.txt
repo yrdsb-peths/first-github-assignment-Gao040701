@@ -1,0 +1,8 @@
+public class pattern{
+    private String name;
+    private int sideLength;
+    public pattern(String name, int sideLength){
+        this.name = name;
+        this.sideLength = sideLength;
+    }
+}
